@@ -1,1 +1,1 @@
-import loops
+import dictionary_practice
