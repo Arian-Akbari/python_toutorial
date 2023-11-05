@@ -24,6 +24,9 @@ def introduce():
 
     things = {'health': 100, 'name': 'arian'}
     print(list(reversed(things)))
+    things['health'] = 50
+    print(things['health'])
+    # dictionary is mutable -> it can be changed and altered
 
 
 introduce()
